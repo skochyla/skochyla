@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skochyla
+- 👋 Hi, I’m @skoch
 - 👀 I’m interested in programms in c/c++/java/html/php/css and others which will interest me
 - 🌱 I’m currently learning programming and everything about computers!
 - 📫 How to reach me -> sofiakoch@outlook.com.gr
